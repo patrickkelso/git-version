@@ -15,19 +15,13 @@
 
 ## Overview
 
-A one-maybe-two sentence summary of what the module does/what problem it solves.
-This is your 30 second elevator pitch for your module. Consider including
-OS/Puppet version it works with.
+This is a module for returning the version of git installed. The master branch has the
+working bash script based version. The development branch is for building a Ruby based
+solution. The testing branch is for future rspec testing.
 
 ## Module Description
 
-If applicable, this section should have a brief description of the technology
-the module integrates with and what that integration enables. This section
-should answer the questions: "What does this module *do*?" and "Why would I use
-it?"
-
-If your module has a range of functionality (installation, configuration,
-management, etc.) this is the time to mention it.
+Does what it says on the tin.
 
 ## Setup
 
