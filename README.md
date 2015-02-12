@@ -19,6 +19,8 @@ This is a module for returning the version of git installed. The master branch h
 working bash script based version. The development branch is for building a Ruby based
 solution. The testing branch is for future rspec testing.
 
+This is the development branch
+
 ## Module Description
 
 Does what it says on the tin.
