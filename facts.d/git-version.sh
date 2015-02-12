@@ -1,6 +1,6 @@
 #!/bin/sh
 
-which git
+which git 2> /dev/null
 if [ $? -ne 0 ]; then
   echo "git-version=absent"
 else
