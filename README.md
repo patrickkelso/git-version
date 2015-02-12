@@ -15,9 +15,11 @@
 
 ## Overview
 
-A one-maybe-two sentence summary of what the module does/what problem it solves.
-This is your 30 second elevator pitch for your module. Consider including
-OS/Puppet version it works with.
+This is a module for returning the version of git installed. The master branch has the
+working bash script based version. The development branch is for building a Ruby based
+solution. The testing branch is for future rspec testing.
+
+This is the master branch
 
 ## Module Description
 
