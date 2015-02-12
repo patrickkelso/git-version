@@ -2,4 +2,5 @@
 
 export GIT=$(which git)
 export AWK=$(which awk)
-$GIT --version | $AWK '{print $3}'
+export GITV=$($GIT --version | $AWK '{print $3}')
+echo "git-version=$GITV"
